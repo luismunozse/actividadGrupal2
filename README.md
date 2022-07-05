@@ -1,5 +1,5 @@
 # actividadGrupal2
-Luis Munoz
+Luis Munoz Segura
 Lucas Cepeda
 Facundo Pizarro
 Mansilla Carlos
